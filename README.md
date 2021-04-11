@@ -1,3 +1,4 @@
 # Курс продвинутого машинного обучения
 
-[Домашние задания](./homework_1/homework_1.ipynb)
+1) [Домашнее задание №1](./homework_1/homework_1.ipynb)
+2) [Домашнее задание №2](./homework_2/homework_2.ipynb)
